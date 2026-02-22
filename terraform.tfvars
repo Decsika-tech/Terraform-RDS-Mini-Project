@@ -1,0 +1,7 @@
+db_name="Project"
+engine="MySQL"
+username="Master"
+password="Root1234"
+instance_class="db.t3.micro"
+allocated_storage="20"
+skip_final_snapshot="true"
